@@ -2,6 +2,20 @@
 
 This is a fork of http://github.com/micropython from V1.14 branch
 
+# ESP32 T-Watch
+
+![image](https://user-images.githubusercontent.com/22662559/111427886-0f7fa600-86f7-11eb-91d7-db0c1f60d92b.png)
+
+
+
+The board consists of:
+a. BMA423 - 3 Axis accelerometer
+b. MAX98357A - PCM Audio via I2C
+c. AXP202 - A power management Unit
+d. PCF8563 - Real Time Clock
+e. ST7789 - TFT Display via SPI
+f. FT6206 - Focal Tech chip for touch via I2C
+
 ## Build Instructions
 
 1. clone this repository 
